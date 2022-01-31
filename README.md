@@ -1,5 +1,9 @@
 # [Leetcode](https://leetcode.com/problemset/all/) tasks
 
+## Hard
+
+- 140 - Word Break II: [Details](https://leetcode.com/problems/word-break-ii/) | [Solution](https://github.com/ZiF1R/leetcode-tasks/blob/master/WordBreak_2/index.js)
+
 ## Medium
 
 - 62 - Unique Paths: [Details](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/ZiF1R/leetcode-tasks/blob/master/UniquePaths/index.js)
